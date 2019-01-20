@@ -1,0 +1,68 @@
+E:\Studies\python_env\Scripts\python.exe E:/Studies/LabsMag/deep_learning/UNN_deep_learning_lab1/deep_learning_lab_part.py
+MNIST data already downloaded
+Network created with 
+Layer sizes = [784, 392, 10]
+Network: initialised
+Network.fit: started with parameters
+Learning rate = 0.1 
+Batch size = 128 
+Epochs number = 10
+
+Epoch 1
+Network Fit iteration: 100%|██████████| 391/391 [03:18<00:00,  2.22it/s]
+Accuracy 15.14
+
+Epoch 2
+Network Fit iteration: 100%|██████████| 391/391 [03:20<00:00,  2.19it/s]
+Accuracy 22.04
+
+Epoch 3
+Network Fit iteration: 100%|██████████| 391/391 [03:21<00:00,  2.20it/s]
+Accuracy 25.59
+
+Epoch 4
+Network Fit iteration: 100%|██████████| 391/391 [03:20<00:00,  2.21it/s]
+Accuracy 27.68
+
+Epoch 5
+Network Fit iteration: 100%|██████████| 391/391 [03:20<00:00,  2.20it/s]
+Accuracy 29.57
+
+Epoch 6
+Network Fit iteration: 100%|██████████| 391/391 [03:18<00:00,  2.15it/s]
+Accuracy 30.72
+
+Epoch 7
+Network Fit iteration: 100%|██████████| 391/391 [03:23<00:00,  2.16it/s]
+Accuracy 31.39
+
+Epoch 8
+Network Fit iteration: 100%|██████████| 391/391 [03:25<00:00,  2.15it/s]
+Accuracy 31.46
+
+Epoch 9
+Network Fit iteration: 100%|██████████| 391/391 [03:23<00:00,  2.16it/s]
+Accuracy 31.86
+
+Epoch 10
+Network Fit iteration: 100%|██████████| 391/391 [03:23<00:00,  2.17it/s]
+Accuracy 32.06
+              precision    recall  f1-score   support
+
+           0       0.11      0.06      0.08       980
+           1       0.59      0.98      0.73      1135
+           2       0.02      0.01      0.01      1032
+           3       0.07      0.02      0.04      1010
+           4       0.02      0.00      0.00       982
+           5       0.15      0.07      0.09       892
+           6       0.25      0.98      0.40       958
+           7       0.40      0.92      0.56      1028
+           8       0.10      0.02      0.03       974
+           9       0.01      0.00      0.00      1009
+
+   micro avg       0.32      0.32      0.32     10000
+   macro avg       0.17      0.31      0.19     10000
+weighted avg       0.18      0.32      0.20     10000
+
+
+Process finished with exit code 0

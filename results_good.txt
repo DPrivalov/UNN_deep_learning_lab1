@@ -1,0 +1,108 @@
+E:\Studies\python_env\Scripts\python.exe E:/Studies/LabsMag/deep_learning/UNN_deep_learning_lab1/deep_learning_lab_part.py
+MNIST data already downloaded
+Network created with 
+Layer sizes = [784, 392, 10]
+Network: initialised
+Network.fit: started with parameters 
+Learning rate = 0.05 
+Batch size = 1 
+Epochs number = 10
+
+Epoch 1
+Network Fit iteration: 100%|██████████| 50000/50000 [06:49<00:00, 122.07it/s]
+Accuracy 38.66
+
+Epoch 2
+Network Fit iteration: 100%|██████████| 50000/50000 [06:50<00:00, 121.82it/s]
+Accuracy 43.56
+
+Epoch 3
+Network Fit iteration: 100%|██████████| 50000/50000 [06:49<00:00, 122.17it/s]
+Accuracy 52.83
+
+Epoch 4
+Network Fit iteration: 100%|██████████| 50000/50000 [06:52<00:00, 121.11it/s]
+Accuracy 75.96
+
+Epoch 5
+Network Fit iteration: 100%|██████████| 50000/50000 [06:49<00:00, 122.23it/s]
+Accuracy 86.1
+
+Epoch 6
+Network Fit iteration: 100%|██████████| 50000/50000 [06:49<00:00, 122.19it/s]
+Accuracy 86.44
+
+Epoch 7
+Network Fit iteration: 100%|██████████| 50000/50000 [06:49<00:00, 122.68it/s]
+Accuracy 86.62
+
+Epoch 8
+Network Fit iteration: 100%|██████████| 50000/50000 [06:49<00:00, 122.04it/s]
+Accuracy 86.91
+
+Epoch 9
+Network Fit iteration: 100%|██████████| 50000/50000 [06:50<00:00, 121.72it/s]
+Accuracy 86.82
+
+Epoch 10
+Network Fit iteration: 100%|██████████| 50000/50000 [06:49<00:00, 122.00it/s]
+Accuracy 86.75
+
+Epoch 11
+Network Fit iteration: 100%|██████████| 50000/50000 [06:49<00:00, 122.11it/s]
+Accuracy 86.58
+
+Epoch 12
+Network Fit iteration: 100%|██████████| 50000/50000 [06:49<00:00, 122.10it/s]
+Accuracy 86.99
+
+Epoch 13
+Network Fit iteration: 100%|██████████| 50000/50000 [06:55<00:00, 120.48it/s]
+Accuracy 86.94
+
+Epoch 14
+Network Fit iteration: 100%|██████████| 50000/50000 [06:53<00:00, 120.83it/s]
+Accuracy 87.13
+
+Epoch 15
+Network Fit iteration: 100%|██████████| 50000/50000 [06:54<00:00, 120.74it/s]
+Accuracy 87.05
+
+Epoch 16
+Network Fit iteration: 100%|██████████| 50000/50000 [06:53<00:00, 120.99it/s]
+Accuracy 87.15
+
+Epoch 17
+Network Fit iteration: 100%|██████████| 50000/50000 [07:15<00:00, 114.86it/s]
+Accuracy 87.27
+
+Epoch 18
+Network Fit iteration: 100%|██████████| 50000/50000 [06:52<00:00, 121.13it/s]
+Accuracy 87.26
+
+Epoch 19
+Network Fit iteration: 100%|██████████| 50000/50000 [06:55<00:00, 120.21it/s]
+Accuracy 87.97
+
+Epoch 20
+Network Fit iteration: 100%|██████████| 50000/50000 [06:52<00:00, 121.07it/s]
+Accuracy 96.24
+              precision    recall  f1-score   support
+
+           0       0.96      0.98      0.97       980
+           1       0.98      0.99      0.98      1135
+           2       0.95      0.98      0.96      1032
+           3       0.96      0.96      0.96      1010
+           4       0.96      0.97      0.97       982
+           5       0.92      0.97      0.95       892
+           6       0.96      0.97      0.97       958
+           7       0.95      0.97      0.96      1028
+           8       0.97      0.88      0.92       974
+           9       0.97      0.93      0.95      1009
+
+   micro avg       0.96      0.96      0.96     10000
+   macro avg       0.96      0.96      0.96     10000
+weighted avg       0.96      0.96      0.96     10000
+
+
+Process finished with exit code 0
